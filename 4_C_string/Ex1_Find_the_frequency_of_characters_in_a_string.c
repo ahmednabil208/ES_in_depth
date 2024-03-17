@@ -28,8 +28,7 @@ int main()
        }
        i++;
     }
-    //fflush(stdin);
-//    fflush(stdout);
+
     printf("\nFrequency of %c =%d" ,c,counter);
 
 }
